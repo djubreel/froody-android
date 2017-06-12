@@ -63,4 +63,5 @@
   <string name="entry_type__seed">Graines</string>
   <string name="entry_type__soy_bean">Soja</string>
   <string name="entry_type__currant_black">Mûres</string>
+  <string name="entry_type__blackberry">Mûres</string>
 </resources>
