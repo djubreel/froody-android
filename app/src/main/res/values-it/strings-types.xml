@@ -63,4 +63,5 @@
   <string name="entry_type__seed">Semi</string>
   <string name="entry_type__soy_bean">Fagioli di soia</string>
   <string name="entry_type__currant_black">Ribes nero</string>
+  <string name="entry_type__blackberry">More</string>
 </resources>
