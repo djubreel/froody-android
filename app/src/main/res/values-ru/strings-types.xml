@@ -63,4 +63,5 @@
   <string name="entry_type__seed">Семена</string>
   <string name="entry_type__soy_bean">Соевые бобы</string>
   <string name="entry_type__currant_black">Чёрная смородина</string>
+  <string name="entry_type__blackberry">Ежевика</string>
 </resources>
