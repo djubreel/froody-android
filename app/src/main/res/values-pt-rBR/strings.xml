@@ -63,6 +63,7 @@
   <string name="support_the_project">Apoiar o projeto</string>
   <string name="translate">Traduza</string>
   <string name="spread">Espalhar</string>
+  <string name="report_bugs">Relatar \n erros</string>
   <string name="about_the_app">Sobre este\naplicativo</string>
   <string name="error_incomplete_input">Erro: Entrada incompleta</string>
 </resources>
