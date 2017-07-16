@@ -62,4 +62,6 @@
   <string name="entry_type__salad">Saláta</string>
   <string name="entry_type__seed">Mag</string>
   <string name="entry_type__soy_bean">Szójabab</string>
+  <string name="entry_type__currant_black">Fekete ribizli</string>
+  <string name="entry_type__blackberry">Szeder</string>
 </resources>
