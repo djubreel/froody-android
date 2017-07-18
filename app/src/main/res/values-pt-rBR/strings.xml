@@ -37,7 +37,7 @@
   <!-- Publish -->
   <string name="suggested">Sugerido</string>
   <string name="select_froody">Selecionar Froody...</string>
-  <string name="hint__description__enter_here">Insira uma descrição (e.g. qualidade, subtipo, para fazer ximia...)</string>
+  <string name="hint__description__enter_here">Insira uma descrição (e.g. qualidade, subtipo, para fazer ximia&#8230;)</string>
   <string name="hint__contact__enter_here">Insira seus dados de contato aqui (telefone e/ou e-mail)</string>
   <string name="publish_entry_now">Publicar agora</string>
   <string name="publish_entry">Publicar</string>
