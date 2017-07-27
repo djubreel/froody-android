@@ -8,12 +8,9 @@
   <string name="gps_type__current">Posizione attuale</string>
   <!-- Certification Types -->
   <string name="certification_type__none">Nessuna</string>
-  <string name="certification_type__bio">Bio</string>
   <!-- Distribution Types -->
   <string name="distribution_type__sale">Vendita</string>
   <string name="distribution_type__swap">Baratto</string>
-  <string name="distribution_type__free">Gratuito</string>
-  <string name="distribution_type__voluntary_donation">Donazione</string>
   <!-- Entry Types (Special) -->
   <string name="entry_type__special__miscellaneous">Misto</string>
   <string name="entry_type__special__water">Acqua</string>
@@ -49,11 +46,9 @@
   <string name="entry_type__zucchini">Zucchine</string>
   <string name="entry_type__aubergine">Melanzane</string>
   <string name="entry_type__mango">Manghi</string>
-  <string name="entry_type__asparagus">Asparagi</string>
   <string name="entry_type__avocado">Avocado</string>
   <string name="entry_type__green_bean">Fagiolini verdi</string>
   <string name="entry_type__blueberry">Mirtilli</string>
-  <string name="entry_type__garlic">Aglio</string>
   <string name="entry_type__onion">Cipolle</string>
   <string name="entry_type__pea">Piselli</string>
   <string name="entry_type__pepper">Peperoni</string>
