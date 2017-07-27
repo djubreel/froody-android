@@ -39,8 +39,6 @@
   <string name="select_froody">Wybierz Froody&#8230;</string>
   <string name="hint__description__enter_here">Wprowadź opis produktów (np. jakość owoców nadająca się tylko do przetworów itp.)</string>
   <string name="hint__contact__enter_here">Dane kontaktowe (dla ułatwienia odbioru powinny zawierać nr. tel. albo e-mail)</string>
-  <string name="publish_entry_now">Publikuj teraz</string>
-  <string name="publish_entry">Publikuj</string>
   <string name="limited_time_active_notice">Uwaga! Wpis będzie ważny jeszcze %1$d dni.</string>
   <string name="share_my_entry_at_froody">Moje wpisy we Froody</string>
   <string name="share_chooser_share_entry">Udostępnij wpis</string>
@@ -48,7 +46,6 @@
   <string name="error_cannot_publish_entry">Błąd: Nie można opublikować wpisu</string>
   <!-- Info -->
   <string name="show_licenses">Pokaż licencje</string>
-  <string name="show_license_of_app">Pokaż licencji aplikacji</string>
   <string name="show_gplv3_license">Pokaż licencję GNU GPLv3</string>
   <string name="show_third_party_licenses">Pokaż licencje bibliotek</string>
   <string name="more_information">Więcej informacji</string>
@@ -66,5 +63,4 @@
   <string name="spread">Promuj</string>
   <string name="report_bugs">Zgłaszaj\nbłędy</string>
   <string name="about_the_app">O aplikacji</string>
-  <string name="error_incomplete_input">O błędzie: Niekompletne dane wejściowe</string>
 </resources>
