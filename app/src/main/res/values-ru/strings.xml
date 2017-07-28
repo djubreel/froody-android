@@ -3,6 +3,12 @@
 <resources>
   <!-- General & Important things -->
   <!-- General words -->
+  <string name="image">Изображение</string>
+  <string name="reset">Сброс</string>
+  <string name="settings">Настройки</string>
+  <string name="more">Ещё</string>
+  <string name="description">Описание</string>
+  <string name="location">Местоположение</string>
   <!-- More general words -->
   <string name="contact">Контакты</string>
   <string name="maintainers">Разработчики</string>
