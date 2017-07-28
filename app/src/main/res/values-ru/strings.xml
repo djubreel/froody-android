@@ -37,8 +37,34 @@
   <!-- Publish -->
   <string name="suggested">Рекомендуемые</string>
   <string name="select_froody">Выберите Froody&#8230;</string>
+  <string name="hint__description__enter_here">Введите описание для этой записи здесь (например качество, для изготовления салата, подтип...)</string>
+  <string name="hint__contact__enter_here">Введите контактную информацию для этой записи (должен содержать ваш № тел. или адрес электронной почты.)</string>
+  <string name="publish_entry_now">Опубликовать сейчас</string>
+  <string name="publish_entry">Публикация</string>
+  <string name="limited_time_active_notice">Внимание! Запись будет доступна в течении %1$d дней.</string>
+  <string name="share_my_entry_at_froody">Мой вход в приложение Froody</string>
+  <string name="share_chooser_share_entry">Поделиться записью</string>
+  <string name="nav__my_entries">Мои записи</string>
+  <string name="error_cannot_publish_entry">Ошибка: Не удается опубликовать запись</string>
   <!-- Info -->
+  <string name="show_licenses">Показать лицензию</string>
   <string name="show_license_of_app">Показать лицензию</string>
+  <string name="show_gplv3_license">Показать GNU GPLv3 лицензию</string>
+  <string name="show_third_party_licenses">Сторонние лицензии</string>
+  <string name="more_information">Дополнительная информация</string>
   <!-- Location -->
+  <string name="request_location">Запрос местоположения</string>
+  <string name="gps_locating_user">Позиционирование&#8230;</string>
+  <string name="address_most_near">Рядом</string>
   <string name="error_bad_permissions">Позвольте приложению Froody доступ к расположению вашего устройства.\n\nБез этого разрешения, вы не сможете публиковать записи во Froody и ваше текущее положение на карте не будет определено.\n\nВы также можете повторно определить своё текущее местоположение, нажав на Указатель в верхней панели инструментов.</string>
+  <string name="show_map_on_current_location">Показать на карте на текущее местоположение?</string>
+  <string name="zoom_out">Уменьшить</string>
+  <string name="cannot_locate_user">Не удается определить местоположение. Пожалуйста, включите службы определения местоположения в настройках системы!</string>
+  <string name="error_couldnt_connect_or_register">Ошибка: Не удалось подключиться к серверу или невозможно проверить пользователя.</string>
+  <string name="support_the_project">Поддержать проект</string>
+  <string name="translate">Перевод</string>
+  <string name="spread">Поделиться</string>
+  <string name="report_bugs">Сообщить t\nоб ошибках</string>
+  <string name="about_the_app">О\nприложении</string>
+  <string name="error_incomplete_input">Ошибка: мало данных</string>
 </resources>
