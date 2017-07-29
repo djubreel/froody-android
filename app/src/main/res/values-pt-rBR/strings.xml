@@ -7,20 +7,14 @@
   <!-- More general words -->
   <string name="changelog">Histórico de mudanças</string>
   <!-- Main -->
-  <string name="navigation_drawer_open">Abrir navegador</string>
-  <string name="navigation_drawer_close">Fechar navegador</string>
-  <string name="help_and_share"><![CDATA[Ajudar & Partilhar]]></string>
   <string name="share_entry_ask">Publicar oferta?</string>
   <string name="share">Compartilhar&#8230;</string>
-  <string name="duration_days_left">%1$d dias</string>
   <!-- Publish -->
   <string name="hint__description__enter_here">Insira uma descrição (e.g. qualidade, subtipo, para fazer ximia&#8230;)</string>
   <string name="limited_time_active_notice">Atenção! A entrada está disponível a partir de agora por %1$d dias.</string>
   <string name="share_chooser_share_entry">Publicar oferta</string>
   <string name="error_cannot_publish_entry">Erro: Impossível publicar a oferta</string>
   <!-- Info -->
-  <string name="show_license_of_app">Mostrar a licença do app</string>
-  <string name="show_gplv3_license">Mostrar licença GNU GPLv3</string>
   <string name="show_third_party_licenses">Exibir licenças de terceiros</string>
   <string name="more_information">Mais informação</string>
   <!-- Location -->
