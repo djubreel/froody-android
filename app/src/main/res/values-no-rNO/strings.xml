@@ -3,6 +3,13 @@
 <resources>
   <!-- General & Important things -->
   <!-- General words -->
+  <string name="image">Bilde</string>
+  <string name="reset">Tilbakestill</string>
+  <string name="settings">Innstillinger</string>
+  <string name="more">Mer</string>
+  <string name="description">Beskrivelse</string>
+  <string name="location">Posisjon</string>
+  <string name="all">Alt</string>
   <!-- More general words -->
   <!-- Main -->
   <!-- Publish -->
