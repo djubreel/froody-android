@@ -10,9 +10,27 @@
   <string name="description">Beskrivelse</string>
   <string name="location">Posisjon</string>
   <string name="all">Alt</string>
+  <string name="contributors">Medvirkende</string>
+  <string name="about_">Om</string>
   <!-- More general words -->
+  <string name="search_dotdotdot">Søk&#8230;</string>
+  <string name="distribution_type">Fordelig</string>
+  <string name="certification">Sertifisering</string>
+  <string name="contact">Kontakt</string>
+  <string name="map">Kart</string>
+  <string name="blog">Blogg</string>
+  <string name="license">Lisens</string>
+  <string name="changelog">Endringslogg</string>
   <!-- Main -->
+  <string name="no_entries_were_published_by_me">Ingen innlegg tilgjengelige</string>
+  <string name="really_delete_entry">Har du virkelig lyst til å slette dette innlegget?</string>
+  <string name="share_entry_ask">Del innlegg?</string>
+  <string name="share">Del&#8230;</string>
+  <string name="donate_bitcoin">Donér\nBitcoin</string>
+  <string name="duration_days_left_text">Dager igjen</string>
   <!-- Publish -->
+  <string name="suggested">Foreslått</string>
+  <string name="select_froody">Velg Froody&#8230;</string>
   <!-- Info -->
   <!-- Location -->
 </resources>
