@@ -62,4 +62,6 @@
   <string name="entry_type__salad">Salater</string>
   <string name="entry_type__seed">Frø</string>
   <string name="entry_type__soy_bean">Sojabønner</string>
+  <string name="entry_type__currant_black">Solbær</string>
+  <string name="entry_type__blackberry">Brombær</string>
 </resources>
