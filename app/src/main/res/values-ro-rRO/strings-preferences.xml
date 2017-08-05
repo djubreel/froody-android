@@ -9,5 +9,7 @@
   <string name="pref_title__clear_cache">Goliți memoria cache</string>
   <string name="pref_desc__clear_cache">Goliți ultima poziție a memoriei cache de intrare</string>
   <string name="pref_desc__froody_server">Schimbați serverul de preluare a intrărilor</string>
+  <string name="pref_summary__network__http_proxy_enabled">Utilizați Tor ca proxy http pentru majoritatea traficului. Este posibil ca unele biblioteci terță (de exemplu geocoder invers) să nu suporte conexiuni via proxy. Schimbarea necesită repornirea aplicației</string>
+  <string name="pref_title__network__http_proxy_enabled">Utilizați proxy http (Tor)</string>
   <!-- App -->
 </resources>
