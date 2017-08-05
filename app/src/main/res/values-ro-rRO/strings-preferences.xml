@@ -3,6 +3,11 @@
 <resources>
   <!-- Map -->
   <string name="pref_summary__map_show_distribution_type">Afișează tipul de distribuție pe hartă</string>
+  <string name="pref_summary__map_show_certification_type">Afișează tipul de certificare pe hartă</string>
   <!-- Network -->
+  <string name="pref_title__froody_server">Schimbați serverul</string>
+  <string name="pref_title__clear_cache">Goliți memoria cache</string>
+  <string name="pref_desc__clear_cache">Goliți ultima poziție a memoriei cache de intrare</string>
+  <string name="pref_desc__froody_server">Schimbați serverul de preluare a intrărilor</string>
   <!-- App -->
 </resources>
