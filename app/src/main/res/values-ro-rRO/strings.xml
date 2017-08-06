@@ -32,17 +32,17 @@
   <string name="suggested">Sugerat</string>
   <string name="select_froody">Alegeţi Froody&#8230;</string>
   <string name="hint__description__enter_here">Introduceţi descrierea pentru acest articol aici (ex. calitatea, folosit la marmeladă, subtipul&#8230;)</string>
-  <string name="hint__contact__enter_here">Introduceţi detalii de contact pentru acest articol aici (trebuie să conţină numărul dvs. de telefon sau adresa de e-mail)</string>
+  <string name="hint__contact__enter_here">Introduceţi detalii de contact pentru acest articol aici (ar trebui să conţină numărul dvs. de telefon sau adresa de e-mail)</string>
   <string name="publish_entry_now">Publică acum</string>
   <string name="publish_entry">Publică</string>
-  <string name="limited_time_active_notice">Atenţie! Acest articol este disponibil de acum pentru %1$d zile.</string>
+  <string name="limited_time_active_notice">Atenţie! Articolul este disponibil de acum pentru %1$d zile.</string>
   <string name="share_my_entry_at_froody">Articolul meu în aplicaţia Froody</string>
-  <string name="share_chooser_share_entry">Distribuire articol</string>
+  <string name="share_chooser_share_entry">Distribuiți articol</string>
   <string name="nav__my_entries">Articolele mele</string>
   <string name="error_cannot_publish_entry">Eroare: Articolul nu poate fi publicat</string>
   <!-- Info -->
   <string name="show_app_licenses">Afişează licenţa</string>
-  <string name="show_third_party_licenses">Arată licenţe terţi</string>
+  <string name="show_third_party_licenses">Afișează licenţe terţi</string>
   <string name="more_information">Mai multe informaţii</string>
   <string name="sponsors">Sponsori</string>
   <!-- Location -->
@@ -51,7 +51,7 @@
   <string name="address_most_near">În apropiere</string>
   <string name="error_bad_permissions">Vă rugăm să permiteţi aplicaţiei Froody să acceseze locaţia dispozitivului dumneavoastră.\n\nFără aceasta permisiune nu puteţi publica articole cu Froody iar poziţia dumneavoastră pe hartă nu poate fi determinată.\n\nPuteţi sa încercaţi din nou apăsând pe butonul-locaţie din bara de sus.</string>
   <string name="show_map_on_current_location">Afişaţi harta pentru locaţia curentă?</string>
-  <string name="cannot_locate_user">Utilizatorul nu poate fi localizat. Vă rugăm să activaţi serviciile de locaţie in setările de sistem!</string>
+  <string name="cannot_locate_user">Utilizatorul nu poate fi localizat. Vă rugăm să activaţi serviciile de localizare în setările de sistem!</string>
   <string name="error_couldnt_connect_or_register">Eroare: Nu s-a putut conecta la server sau nu s-a putut verifica utilizatorul.</string>
   <string name="support_the_project">Susţine proiectul</string>
   <string name="translate">Traducere</string>
