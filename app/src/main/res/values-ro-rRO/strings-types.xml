@@ -18,4 +18,25 @@
   <string name="entry_type__special__miscellaneous">Diverse</string>
   <string name="entry_type__special__water">Apă</string>
   <!-- Entry Types -->
+  <string name="entry_type__apple">Mere</string>
+  <string name="entry_type__pear">Pere</string>
+  <string name="entry_type__cherry">Cireşe</string>
+  <string name="entry_type__plum">Prune</string>
+  <string name="entry_type__currant_red">Coacăze roşii</string>
+  <string name="entry_type__grape">Struguri</string>
+  <string name="entry_type__hazelnut">Alune</string>
+  <string name="entry_type__milk">Lapte</string>
+  <string name="entry_type__raspberry">Zmeură</string>
+  <string name="entry_type__walnut">Nuci</string>
+  <string name="entry_type__carrot">Morcovi</string>
+  <string name="entry_type__cereal">Cereale</string>
+  <string name="entry_type__chili">Ardei iuţi</string>
+  <string name="entry_type__corn">Porumb</string>
+  <string name="entry_type__cucumber">Castraveţi</string>
+  <string name="entry_type__egg">Ouă</string>
+  <string name="entry_type__fish">Peşte</string>
+  <string name="entry_type__flower">Flori</string>
+  <string name="entry_type__honey">Miere</string>
+  <string name="entry_type__lemon">Lămâi</string>
+  <string name="entry_type__mushroom">Ciuperci</string>
 </resources>
