@@ -3,9 +3,31 @@
 <resources>
   <!-- General & Important things -->
   <!-- General words -->
+  <string name="image">Imagine</string>
+  <string name="reset">Reseteaza</string>
+  <string name="settings">Setări</string>
+  <string name="more">Mai multe</string>
+  <string name="description">Descriere</string>
+  <string name="location">Locaţie</string>
+  <string name="all">Toate</string>
+  <string name="contributors">Contribuitori</string>
+  <string name="about_">Despre</string>
   <!-- More general words -->
+  <string name="search_dotdotdot">Căutare&#8230;</string>
+  <string name="distribution_type">Distribuţie</string>
+  <string name="certification">Certificare</string>
+  <string name="contact">Contact</string>
+  <string name="map">Hartă</string>
+  <string name="blog">Blog</string>
+  <string name="license">Licenţă</string>
+  <string name="changelog">Istoricul modificărilor</string>
   <!-- Main -->
+  <string name="share">Distribuire&#8230;</string>
+  <string name="donate_bitcoin">Donaţi Bitcoin</string>
+  <string name="duration_days_left_text">Zile rămase</string>
   <!-- Publish -->
+  <string name="suggested">Sugestii</string>
+  <string name="select_froody">Alegeţi Froody&#8230;</string>
   <!-- Info -->
   <!-- Location -->
 </resources>
