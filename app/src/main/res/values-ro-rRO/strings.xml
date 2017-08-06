@@ -48,4 +48,13 @@
   <string name="request_location">Cereţi locaţia</string>
   <string name="gps_locating_user">Localizare&#8230;</string>
   <string name="address_most_near">În apropiere</string>
+  <string name="error_bad_permissions">Vă rugăm să permiteţi aplicaţiei Froody să acceseze locaţia dispozitivului dumneavoastră.\n\nFără aceasta permisiune nu puteţi publica articole cu Froody iar poziţia dumneavoastră pe hartă nu poate fi determinată.\n\nPuteţi sa încercaţi din nou apăsând pe butonul-locaţie din bara de sus.</string>
+  <string name="show_map_on_current_location">Afişaţi harta pentru locaţia curentă?</string>
+  <string name="cannot_locate_user">Utilizatorul nu poate fi localizat. Vă rugăm să activaţi serviciile de locaţie in setările de sistem!</string>
+  <string name="error_couldnt_connect_or_register">Eroare: Nu s-a putut conecta la server sau nu s-a putut verifica utilizatorul.</string>
+  <string name="support_the_project">Susţine proiectul</string>
+  <string name="translate">Traducere</string>
+  <string name="spread">Răspândire</string>
+  <string name="report_bugs">Raportează\nerori</string>
+  <string name="about_the_app">Despre\naplicaţie</string>
 </resources>
