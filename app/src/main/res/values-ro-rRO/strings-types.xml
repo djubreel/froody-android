@@ -10,6 +10,12 @@
   <string name="certification_type__none">Nici unul</string>
   <string name="certification_type__bio">Organic</string>
   <!-- Distribution Types -->
+  <string name="distribution_type__sale">Ofertă</string>
+  <string name="distribution_type__swap">Schimb</string>
+  <string name="distribution_type__free">Gratuit</string>
+  <string name="distribution_type__voluntary_donation">Donaţie</string>
   <!-- Entry Types (Special) -->
+  <string name="entry_type__special__miscellaneous">Diverse</string>
+  <string name="entry_type__special__water">Apă</string>
   <!-- Entry Types -->
 </resources>
