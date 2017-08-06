@@ -4,7 +4,7 @@
   <!-- General & Important things -->
   <!-- General words -->
   <string name="image">Imagine</string>
-  <string name="reset">Reseteaza</string>
+  <string name="reset">Resetează</string>
   <string name="settings">Setări</string>
   <string name="more">Mai multe</string>
   <string name="description">Descriere</string>
@@ -26,10 +26,10 @@
   <string name="really_delete_entry">Sigur vreţi sa ştergeţi acest articol?</string>
   <string name="share_entry_ask">Distribuiţi articolul?</string>
   <string name="share">Distribuire&#8230;</string>
-  <string name="donate_bitcoin">Donaţi Bitcoin</string>
+  <string name="donate_bitcoin">Donaţi\nBitcoin</string>
   <string name="duration_days_left_text">Zile rămase</string>
   <!-- Publish -->
-  <string name="suggested">Sugestii</string>
+  <string name="suggested">Sugerat</string>
   <string name="select_froody">Alegeţi Froody&#8230;</string>
   <string name="hint__description__enter_here">Introduceţi descrierea pentru acest articol aici (ex. calitatea, folosit la marmeladă, subtipul&#8230;)</string>
   <string name="hint__contact__enter_here">Introduceţi detalii de contact pentru acest articol aici (trebuie să conţină numărul dvs. de telefon sau adresa de e-mail)</string>
