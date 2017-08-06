@@ -4,11 +4,13 @@
   <!-- General & Important things -->
   <!-- General words -->
   <string name="image">Obraz</string>
+  <string name="reset">Reset</string>
   <string name="settings">Ustawienia</string>
   <string name="more">Więcej</string>
   <string name="description">Opis</string>
   <string name="location">Lokalizacja</string>
   <string name="all">Wszystko</string>
+  <string name="contributors">Współautorzy</string>
   <string name="about_">Info</string>
   <!-- More general words -->
   <string name="search_dotdotdot">Szukaj&#8230;</string>
