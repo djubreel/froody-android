@@ -42,6 +42,7 @@
   <string name="error_cannot_publish_entry">Eroare: Articolul nu poate fi publicat</string>
   <!-- Info -->
   <string name="show_app_licenses">Afişează licenţa</string>
+  <string name="show_third_party_licenses">Arată licenţe terţi</string>
   <string name="more_information">Mai multe informaţii</string>
   <string name="sponsors">Sponsori</string>
   <!-- Location -->
@@ -57,4 +58,5 @@
   <string name="spread">Răspândire</string>
   <string name="report_bugs">Raportează\nerori</string>
   <string name="about_the_app">Despre\naplicaţie</string>
+  <string name="error_incomplete_input">Eroare: Introducere incompletă</string>
 </resources>
