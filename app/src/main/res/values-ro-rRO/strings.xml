@@ -22,12 +22,30 @@
   <string name="license">Licenţă</string>
   <string name="changelog">Istoricul modificărilor</string>
   <!-- Main -->
+  <string name="no_entries_were_published_by_me">Niciun articol disponibil</string>
+  <string name="really_delete_entry">Sigur vreţi sa ştergeţi acest articol?</string>
+  <string name="share_entry_ask">Distribuiţi articolul?</string>
   <string name="share">Distribuire&#8230;</string>
   <string name="donate_bitcoin">Donaţi Bitcoin</string>
   <string name="duration_days_left_text">Zile rămase</string>
   <!-- Publish -->
   <string name="suggested">Sugestii</string>
   <string name="select_froody">Alegeţi Froody&#8230;</string>
+  <string name="hint__description__enter_here">Introduceţi descrierea pentru acest articol aici (ex. calitatea, folosit la marmeladă, subtipul&#8230;)</string>
+  <string name="hint__contact__enter_here">Introduceţi detalii de contact pentru acest articol aici (trebuie să conţină numărul dvs. de telefon sau adresa de e-mail)</string>
+  <string name="publish_entry_now">Publică acum</string>
+  <string name="publish_entry">Publică</string>
+  <string name="limited_time_active_notice">Atenţie! Acest articol este disponibil de acum pentru %1$d zile.</string>
+  <string name="share_my_entry_at_froody">Articolul meu în aplicaţia Froody</string>
+  <string name="share_chooser_share_entry">Distribuire articol</string>
+  <string name="nav__my_entries">Articolele mele</string>
+  <string name="error_cannot_publish_entry">Eroare: Articolul nu poate fi publicat</string>
   <!-- Info -->
+  <string name="show_app_licenses">Afişează licenţa</string>
+  <string name="more_information">Mai multe informaţii</string>
+  <string name="sponsors">Sponsori</string>
   <!-- Location -->
+  <string name="request_location">Cereţi locaţia</string>
+  <string name="gps_locating_user">Localizare&#8230;</string>
+  <string name="address_most_near">În apropiere</string>
 </resources>
