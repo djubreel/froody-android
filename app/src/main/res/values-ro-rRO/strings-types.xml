@@ -58,4 +58,10 @@
   <string name="entry_type__pea">Mazăre</string>
   <string name="entry_type__pepper">Ardei</string>
   <string name="entry_type__pumpkin">Dovleci</string>
+  <string name="entry_type__radish">Ridiche</string>
+  <string name="entry_type__salad">Salată</string>
+  <string name="entry_type__seed">Seminţe</string>
+  <string name="entry_type__soy_bean">Boabe de soia</string>
+  <string name="entry_type__currant_black">Coacăze negre</string>
+  <string name="entry_type__blackberry">Mure</string>
 </resources>
