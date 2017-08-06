@@ -27,6 +27,8 @@
   <string name="duration_days_left_text">Pozostało dni</string>
   <!-- Publish -->
   <string name="suggested">Zasugeruj</string>
+  <string name="publish_entry_now">Publikuj teraz</string>
+  <string name="publish_entry">Publikuj</string>
   <string name="limited_time_active_notice">Uwaga! Wpis będzie ważny jeszcze %1$d dni.</string>
   <string name="error_cannot_publish_entry">Błąd: Nie można opublikować wpisu</string>
   <!-- Info -->
