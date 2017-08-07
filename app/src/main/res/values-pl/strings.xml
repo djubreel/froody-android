@@ -22,6 +22,7 @@
   <string name="license">Licencja</string>
   <string name="changelog">Lista zmian</string>
   <!-- Main -->
+  <string name="no_entries_were_published_by_me">Brak wpisów</string>
   <string name="really_delete_entry">Czy naprawdę chcesz usunąć ten wpis?</string>
   <string name="share_entry_ask">Udostępnić wpis?</string>
   <string name="share">Udostępnij&#8230;</string>
@@ -29,6 +30,8 @@
   <string name="duration_days_left_text">Pozostało dni</string>
   <!-- Publish -->
   <string name="suggested">Zasugeruj</string>
+  <string name="select_froody">Wybierz Froody&#8230;</string>
+  <string name="hint__contact__enter_here">Podaj dane kontaktowe dla wpisu (powinno zawierać nr Tel. lub adres E-Mail)</string>
   <string name="publish_entry_now">Publikuj teraz</string>
   <string name="publish_entry">Publikuj</string>
   <string name="limited_time_active_notice">Uwaga! Wpis będzie ważny jeszcze %1$d dni.</string>
