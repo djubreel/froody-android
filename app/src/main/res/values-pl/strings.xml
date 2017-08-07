@@ -31,6 +31,7 @@
   <!-- Publish -->
   <string name="suggested">Zasugeruj</string>
   <string name="select_froody">Wybierz Froody&#8230;</string>
+  <string name="hint__description__enter_here">Dodaj opis dla tego wpisu (np. jakość, nadaje się do zrobienia marmolady, podtyp&#8230;)</string>
   <string name="hint__contact__enter_here">Podaj dane kontaktowe dla wpisu (powinno zawierać nr Tel. lub adres E-Mail)</string>
   <string name="publish_entry_now">Publikuj teraz</string>
   <string name="publish_entry">Publikuj</string>
@@ -44,12 +45,17 @@
   <string name="more_information">Więcej informacji</string>
   <string name="sponsors">Sponsorzy</string>
   <!-- Location -->
+  <string name="request_location">Zapytaj o lokalizację</string>
+  <string name="gps_locating_user">Lokalizowanie&#8230;</string>
   <string name="address_most_near">W pobliżu</string>
   <string name="error_bad_permissions">Proszę o pozwolenie Froody na dostęp do lokalizacji urządzenia.\n\nW przeciwnym wypadku nie będziesz mógł dodawać wpisów do Froody i nie będzie można określić Twojej pozycji na mapie.\n\nMożesz ponownie ustalić położenie poprzez naciśnięcie przycisku położenia w górnym pasku narzędzi.</string>
+  <string name="show_map_on_current_location">Wyśrodkować mapę na bieżącej lokalizacji?</string>
+  <string name="cannot_locate_user">Nie znaleziono użytkownika. Włącz usługę lokalizacji w ustawieniach systemu!</string>
   <string name="error_couldnt_connect_or_register">Błąd: Nie udało się połączyć z serwerem lub sprawdzić użytkownika.</string>
   <string name="support_the_project">Wesprzyj projekt</string>
   <string name="translate">Przetłumacz</string>
   <string name="spread">Promuj</string>
   <string name="report_bugs">Zgłaszaj\nbłędy</string>
   <string name="about_the_app">O aplikacji</string>
+  <string name="error_incomplete_input">Błąd: nie wpisano wszystkich danych</string>
 </resources>
