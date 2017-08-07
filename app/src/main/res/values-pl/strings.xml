@@ -35,11 +35,16 @@
   <string name="publish_entry_now">Publikuj teraz</string>
   <string name="publish_entry">Publikuj</string>
   <string name="limited_time_active_notice">Uwaga! Wpis będzie ważny jeszcze %1$d dni.</string>
+  <string name="share_chooser_share_entry">Udostępnij wpis</string>
+  <string name="nav__my_entries">Moje wpisy</string>
   <string name="error_cannot_publish_entry">Błąd: Nie można opublikować wpisu</string>
   <!-- Info -->
+  <string name="show_app_licenses">Pokaż licencje</string>
   <string name="show_third_party_licenses">Pokaż licencje bibliotek</string>
   <string name="more_information">Więcej informacji</string>
+  <string name="sponsors">Sponsorzy</string>
   <!-- Location -->
+  <string name="address_most_near">W pobliżu</string>
   <string name="error_bad_permissions">Proszę o pozwolenie Froody na dostęp do lokalizacji urządzenia.\n\nW przeciwnym wypadku nie będziesz mógł dodawać wpisów do Froody i nie będzie można określić Twojej pozycji na mapie.\n\nMożesz ponownie ustalić położenie poprzez naciśnięcie przycisku położenia w górnym pasku narzędzi.</string>
   <string name="error_couldnt_connect_or_register">Błąd: Nie udało się połączyć z serwerem lub sprawdzić użytkownika.</string>
   <string name="support_the_project">Wesprzyj projekt</string>
