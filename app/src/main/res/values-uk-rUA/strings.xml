@@ -3,9 +3,32 @@
 <resources>
   <!-- General & Important things -->
   <!-- General words -->
+  <string name="image">Зображення</string>
+  <string name="reset">Скинути</string>
+  <string name="settings">Налаштування</string>
+  <string name="more">Більше</string>
+  <string name="description">Опис</string>
+  <string name="location">Розташування</string>
+  <string name="all">Усе</string>
+  <string name="contributors">Учасники</string>
   <!-- More general words -->
   <!-- Main -->
   <!-- Publish -->
+  <string name="share_chooser_share_entry">Поділитися товаром</string>
+  <string name="nav__my_entries">Мої товари</string>
+  <string name="error_cannot_publish_entry">Помилка: неможливо опублікувати</string>
   <!-- Info -->
+  <string name="show_app_licenses">Показати ліцензії</string>
+  <string name="show_third_party_licenses">Показати ліцензії 3-іх сторін</string>
+  <string name="more_information">Докладніше</string>
+  <string name="sponsors">Спонсори</string>
   <!-- Location -->
+  <string name="request_location">Запит розташування</string>
+  <string name="gps_locating_user">Знаходження&#8230;</string>
+  <string name="address_most_near">Поблизу</string>
+  <string name="error_bad_permissions">Будь ласка, надайте Froody доступ до розташування вашого пристрою.\n\nБез цього дозволу ви не зможете публікувати товари у Froody і ваше поточне розташування буде неможливо визначити.\n\nВи зможете визначити розташування знову, натиснувши кнопку розташування на панелі вгорі.</string>
+  <string name="translate">Перекласти</string>
+  <string name="report_bugs">Повідомити\nпро помилку</string>
+  <string name="about_the_app">Про\nзастосунок</string>
+  <string name="error_incomplete_input">Помилка: незавершене введення</string>
 </resources>
