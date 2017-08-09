@@ -5,5 +5,6 @@
   <string name="pref_summary__map_show_distribution_type">Mostrar el tipo de distribución en el mapa</string>
   <!-- Network -->
   <!-- App -->
+  <string name="pref_cat__expert">Ajustes avanzados</string>
   <string name="pref_title__reset_app">Restablecer la app</string>
 </resources>
