@@ -35,8 +35,26 @@
   <string name="hint__contact__enter_here">Introduzca los datos de contacto para esta entrada aquí (debe contener tu num. telefónico o dirección de correo electrónico)</string>
   <string name="publish_entry_now">Publicar ahora</string>
   <string name="publish_entry">Publicar</string>
+  <string name="share_my_entry_at_froody">Mi entrada en el app Froody</string>
+  <string name="share_chooser_share_entry">Compartir entrada</string>
+  <string name="nav__my_entries">Mis Entradas</string>
+  <string name="error_cannot_publish_entry">Error: No se puede publicar la entrada</string>
   <!-- Info -->
+  <string name="show_app_licenses">Mostrar licencias</string>
+  <string name="show_third_party_licenses">Mostrar licencias de terceros</string>
+  <string name="more_information">Más información</string>
+  <string name="sponsors">Patrocinadores</string>
   <!-- Location -->
+  <string name="request_location">Solicitar ubicación</string>
+  <string name="gps_locating_user">Localizando&#8230;</string>
+  <string name="address_most_near">Cercanos</string>
+  <string name="show_map_on_current_location">¿Mostrar el mapa en la ubicación actual?</string>
+  <string name="cannot_locate_user">No se puede encontrar el usuario. ¡Por favor habilite los servicios de localización en los ajustes del sistema!</string>
+  <string name="error_couldnt_connect_or_register">Error: No se pudo conectar al servidor o consultar el usuario.</string>
+  <string name="support_the_project">Apoya el proyecto</string>
+  <string name="translate">Traducir</string>
+  <string name="spread">Extender</string>
   <string name="report_bugs">Reportar\nerrores</string>
   <string name="about_the_app">Acerca de\nla app</string>
+  <string name="error_incomplete_input">Error: Entrada incompleta</string>
 </resources>
