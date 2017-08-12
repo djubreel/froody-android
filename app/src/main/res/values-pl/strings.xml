@@ -36,6 +36,7 @@
   <string name="publish_entry_now">Publikuj teraz</string>
   <string name="publish_entry">Publikuj</string>
   <string name="limited_time_active_notice">Uwaga! Wpis będzie ważny jeszcze %1$d dni.</string>
+  <string name="share_my_entry_at_froody">Mój wpis w aplikacji Froody</string>
   <string name="share_chooser_share_entry">Udostępnij wpis</string>
   <string name="nav__my_entries">Moje wpisy</string>
   <string name="error_cannot_publish_entry">Błąd: Nie można opublikować wpisu</string>
