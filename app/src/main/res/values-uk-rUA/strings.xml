@@ -50,9 +50,12 @@
   <string name="gps_locating_user">Знаходження&#8230;</string>
   <string name="address_most_near">Поблизу</string>
   <string name="error_bad_permissions">Будь ласка, надайте Froody доступ до розташування вашого пристрою.\n\nБез цього дозволу ви не зможете публікувати товари у Froody і ваше поточне розташування буде неможливо визначити.\n\nВи зможете визначити розташування знову, натиснувши кнопку розташування на панелі вгорі.</string>
-  <string name="show_map_on_current_location">Показати мапу поточної локації?</string>
-  <string name="cannot_locate_user">Неможливо визначити локацію користувача. Будь ласка, увімкніть визначення розташування в системних налаштуваннях!</string>
+  <string name="show_map_on_current_location">Показати мапу поточного розташування?</string>
+  <string name="cannot_locate_user">Неможливо визначити розташування користувача. Будь ласка, увімкніть визначення розташування в системних налаштуваннях!</string>
+  <string name="error_couldnt_connect_or_register">Помилка: неможливо під\'єднатися до сервера чи перевірити користувача.</string>
+  <string name="support_the_project">Підтримати проект</string>
   <string name="translate">Перекласти</string>
+  <string name="spread">Поширити</string>
   <string name="report_bugs">Повідомити\nпро помилку</string>
   <string name="about_the_app">Про\nзастосунок</string>
   <string name="error_incomplete_input">Помилка: незавершене введення</string>
