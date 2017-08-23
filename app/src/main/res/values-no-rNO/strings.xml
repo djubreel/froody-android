@@ -59,5 +59,6 @@
   <string name="report_bugs">Rapportér\nfeil</string>
   <string name="about_the_app">Om\nappen</string>
   <string name="error_incomplete_input">Feil: Ufullstendig data</string>
+  <string name="pref_desc__language">Bytt språket for denne appen og omstart den for at endringen skal ta sted</string>
   <string name="pref_title__language">Språk</string>
 </resources>
