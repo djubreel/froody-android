@@ -24,11 +24,19 @@
   <!-- Main -->
   <string name="share">Cumpartzi&#8230;</string>
   <string name="donate_bitcoin">Dona\nBitcoin</string>
+  <string name="duration_days_left_text">Dies chi abarrant</string>
   <!-- Publish -->
+  <string name="publish_entry_now">Pùblica como</string>
   <string name="publish_entry">Pùblica</string>
   <!-- Info -->
+  <string name="show_app_licenses">Ammustra sas litzèntzias</string>
+  <string name="sponsors">Patrotzinadores</string>
   <!-- Location -->
   <string name="address_most_near">A curtzu</string>
+  <string name="translate">Tradui</string>
+  <string name="spread">Ispàrghina</string>
   <string name="report_bugs">Sinnala \nerrores</string>
+  <string name="about_the_app">A pitzu de\ns\'aplicatzione</string>
+  <string name="error_incomplete_input">Errore: insertadura non cumprida</string>
   <string name="pref_title__language">Limba</string>
 </resources>
