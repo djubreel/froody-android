@@ -31,6 +31,7 @@
   <!-- Publish -->
   <string name="suggested">Cunsigiadu</string>
   <string name="hint__description__enter_here">Inserta una descritzione pro custu annùntziu inoghe (es. calidade, pro fàghere a marmellada, suta-casta&#8230;)</string>
+  <string name="hint__contact__enter_here">Inserta inoghe sas minujas de cuntatu (diat dèpere cuntènnere su nùm. de tel. o s\'indiritzu de p. eletr. tua)</string>
   <string name="publish_entry_now">Pùblica como</string>
   <string name="publish_entry">Pùblica</string>
   <string name="limited_time_active_notice">Atentzione! S\'annùntziu est disponìbile dae como pro %1$d dies.</string>
