@@ -53,8 +53,15 @@
   <string name="entry_type__avocado">Avocado</string>
   <string name="entry_type__green_bean">Fasolu birde</string>
   <string name="entry_type__blueberry">Murtitzu</string>
+  <string name="entry_type__garlic">Àgiu</string>
+  <string name="entry_type__onion">Chibudda</string>
+  <string name="entry_type__pea">Pisurtzu</string>
+  <string name="entry_type__pepper">Piberone</string>
+  <string name="entry_type__pumpkin">Curcuriga</string>
+  <string name="entry_type__radish">Ravanellu</string>
   <string name="entry_type__salad">Insalada</string>
   <string name="entry_type__seed">Sementas</string>
+  <string name="entry_type__soy_bean">Fasolu de sòia</string>
   <string name="entry_type__currant_black">Ribes nigheddu</string>
   <string name="entry_type__blackberry">Mura</string>
 </resources>
