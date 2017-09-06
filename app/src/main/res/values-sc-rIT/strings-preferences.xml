@@ -3,5 +3,7 @@
 <resources>
   <!-- Map -->
   <!-- Network -->
+  <string name="pref_title__network__http_proxy_enabled">Imprea su server intermediàriu http (Tor)</string>
   <!-- App -->
+  <string name="pref_cat__expert">Impostatziones avantzadas</string>
 </resources>
