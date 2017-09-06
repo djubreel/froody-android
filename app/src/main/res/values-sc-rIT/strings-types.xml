@@ -4,6 +4,10 @@
   <!-- GPS Types -->
   <!-- Certification Types -->
   <!-- Distribution Types -->
+  <string name="distribution_type__voluntary_donation">Donatzione</string>
   <!-- Entry Types (Special) -->
+  <string name="entry_type__special__water">Abba</string>
   <!-- Entry Types -->
+  <string name="entry_type__grape">Àghina</string>
+  <string name="entry_type__milk">Late</string>
 </resources>
