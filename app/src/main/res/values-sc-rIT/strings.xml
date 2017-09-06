@@ -30,6 +30,7 @@
   <string name="duration_days_left_text">Dies chi abarrant</string>
   <!-- Publish -->
   <string name="suggested">Cunsigiadu</string>
+  <string name="select_froody">Issèbera unu Froody&#8230;</string>
   <string name="hint__description__enter_here">Inserta una descritzione pro custu annùntziu inoghe (es. calidade, pro fàghere a marmellada, suta-casta&#8230;)</string>
   <string name="hint__contact__enter_here">Inserta inoghe sas minujas de cuntatu (diat dèpere cuntènnere su nùm. de tel. o s\'indiritzu de p. eletr. tua)</string>
   <string name="publish_entry_now">Pùblica como</string>
