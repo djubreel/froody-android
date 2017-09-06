@@ -9,6 +9,7 @@
   <string name="pref_title__clear_cache">Iscantzella sa cache</string>
   <string name="pref_desc__clear_cache">Iscantzella sa cache de sos annùntzios, ùrtima positzione</string>
   <string name="pref_desc__froody_server">Càmbia su server pro recuperare sos annùntzios</string>
+  <string name="pref_summary__network__http_proxy_enabled">Imprea Tor comente server intermediàriu (proxy) http. Calicuna de sas librerias de tertzas partes (es. reverse geocoder) diat non pòdere suportare sas connessiones pro mèdiu de servers intermediàrios. Sa modìfica tenet bisòngiu de torrare a allùghere s\'aplicatzione pro tènnere efetu</string>
   <string name="pref_title__network__http_proxy_enabled">Imprea su server intermediàriu http (Tor)</string>
   <!-- App -->
   <string name="pref_cat__expert">Impostatziones avantzadas</string>
