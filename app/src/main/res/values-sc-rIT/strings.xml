@@ -3,9 +3,32 @@
 <resources>
   <!-- General & Important things -->
   <!-- General words -->
+  <string name="image">Immàgine</string>
+  <string name="reset">Reimposta</string>
+  <string name="settings">Impostatziones</string>
+  <string name="more">Àteru</string>
+  <string name="description">Descritzione</string>
+  <string name="location">Positzione</string>
+  <string name="all">Totu</string>
+  <string name="contributors">Contribuidores</string>
+  <string name="about_">Informatziones</string>
   <!-- More general words -->
+  <string name="search_dotdotdot">Chirca&#8230;</string>
+  <string name="distribution_type">Distributzione</string>
+  <string name="certification">Tzertificatzione</string>
+  <string name="contact">Cuntatu</string>
+  <string name="map">Mapa</string>
+  <string name="blog">Blog</string>
+  <string name="license">Litzèntzia</string>
+  <string name="changelog">Registru de sas modìficas</string>
   <!-- Main -->
+  <string name="share">Cumpartzi&#8230;</string>
+  <string name="donate_bitcoin">Dona\nBitcoin</string>
   <!-- Publish -->
+  <string name="publish_entry">Pùblica</string>
   <!-- Info -->
   <!-- Location -->
+  <string name="address_most_near">A curtzu</string>
+  <string name="report_bugs">Sinnala \nerrores</string>
+  <string name="pref_title__language">Limba</string>
 </resources>
