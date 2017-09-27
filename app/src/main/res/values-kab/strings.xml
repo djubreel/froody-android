@@ -27,7 +27,11 @@
   <string name="share_entry_ask">Bḍu anekcum?</string>
   <string name="share">Bḍu...</string>
   <string name="donate_bitcoin">Asefku s\nBitcoin</string>
+  <string name="duration_days_left_text">Ussan id igran</string>
   <!-- Publish -->
+  <string name="suggested">Mel</string>
+  <string name="select_froody">Fren Froody...</string>
+  <string name="hint__description__enter_here">Err aglam iw nekcum agi dagi (amedya:amerkid,i tabreɛwant,sdaw isenfar...)</string>
   <!-- Info -->
   <!-- Location -->
 </resources>
