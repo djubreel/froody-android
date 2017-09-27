@@ -20,4 +20,6 @@
   <!-- Entry Types -->
   <string name="entry_type__apple">Tittefaḥin</string>
   <string name="entry_type__pear">Tifiras</string>
+  <string name="entry_type__cherry">Anetrim</string>
+  <string name="entry_type__plum">Aberquq</string>
 </resources>
