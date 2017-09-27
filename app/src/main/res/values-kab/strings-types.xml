@@ -24,4 +24,12 @@
   <string name="entry_type__plum">Aberquq</string>
   <string name="entry_type__grape">Tiẓuṛin</string>
   <string name="entry_type__milk">Ayefki</string>
+  <string name="entry_type__walnut">Agussim</string>
+  <string name="entry_type__carrot">Zṛudiya</string>
+  <string name="entry_type__cereal">Imendi</string>
+  <string name="entry_type__chili">Ifelfel</string>
+  <string name="entry_type__corn">Akbal</string>
+  <string name="entry_type__cucumber">Axyaṛ</string>
+  <string name="entry_type__egg">Timellalin</string>
+  <string name="entry_type__fish">Islem</string>
 </resources>
