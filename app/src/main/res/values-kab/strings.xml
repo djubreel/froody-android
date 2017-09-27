@@ -3,7 +3,18 @@
 <resources>
   <!-- General & Important things -->
   <!-- General words -->
+  <string name="image">Tugna</string>
+  <string name="reset">Wennez</string>
+  <string name="settings">Iɣewwaṛen</string>
+  <string name="more">Timerna</string>
+  <string name="description">Aglam</string>
+  <string name="location">Asun</string>
+  <string name="all">Meṛṛa</string>
+  <string name="contributors">Iwiziwen</string>
+  <string name="about_">Γef</string>
   <!-- More general words -->
+  <string name="search_dotdotdot">Anadi...</string>
+  <string name="distribution_type">Asedger</string>
   <!-- Main -->
   <!-- Publish -->
   <!-- Info -->
