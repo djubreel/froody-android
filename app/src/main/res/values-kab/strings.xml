@@ -49,4 +49,5 @@
   <string name="request_location">Asuter n usideg</string>
   <string name="gps_locating_user">Asideg i teddu...</string>
   <string name="address_most_near">Zdat</string>
+  <string name="error_bad_permissions">Tanemmirt Fked turagt i Froody iw nekcum s ideg innek.\n\n m-ur telli ara turagt,ur tezmireḍ a-tt-ẓreg-eḍ anekcum u ideg innek n tura ur yezmir ara ad yettwasebded.\n\n tzemreḍ a-tt-sideg-eḍ i tikelt nniḍen s usiti ɣef tafeggagt n ifecka yellan iwsawen.</string>
 </resources>
