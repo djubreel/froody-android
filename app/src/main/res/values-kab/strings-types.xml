@@ -32,4 +32,18 @@
   <string name="entry_type__cucumber">Axyaṛ</string>
   <string name="entry_type__egg">Timellalin</string>
   <string name="entry_type__fish">Islem</string>
+  <string name="entry_type__flower">Ijeǧǧigen</string>
+  <string name="entry_type__honey">Tament</string>
+  <string name="entry_type__lemon">Qaṛes</string>
+  <string name="entry_type__mushroom">Igursalen</string>
+  <string name="entry_type__orange">Čina</string>
+  <string name="entry_type__peach">Lxux</string>
+  <string name="entry_type__potato">Baṭaṭa</string>
+  <string name="entry_type__sapling">Tamaɣṛust</string>
+  <string name="entry_type__strawberry">Timerẓiwt</string>
+  <string name="entry_type__tomato">Ṭumaṭic</string>
+  <string name="entry_type__wood">Asɣaṛ</string>
+  <string name="entry_type__zucchini">Taxsayt</string>
+  <string name="entry_type__aubergine">Batenǧal</string>
+  <string name="entry_type__mango">Mung</string>
 </resources>
