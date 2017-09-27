@@ -6,5 +6,8 @@
   <string name="pref_summary__map_show_certification_type">Sken asenfar n taselkant deg takarḍa</string>
   <!-- Network -->
   <string name="pref_title__froody_server">Beddel aqeddac</string>
+  <string name="pref_title__clear_cache">Sfeḍ tuffirt</string>
+  <string name="pref_desc__clear_cache">Sizdeg tuffirt n unekcum,ideg aneggaru</string>
+  <string name="pref_desc__froody_server">Beddel aqeddac iw ḥeli n inekcumen</string>
   <!-- App -->
 </resources>
