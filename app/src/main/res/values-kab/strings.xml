@@ -32,6 +32,14 @@
   <string name="suggested">Mel</string>
   <string name="select_froody">Fren Froody...</string>
   <string name="hint__description__enter_here">Err aglam iw nekcum agi dagi (amedya:amerkid,i tabreɛwant,sdaw isenfar...)</string>
+  <string name="hint__contact__enter_here">Err isefka n unermis iw nekcum agi dagi (uṭṭun n teteɣri d/natansa n imayl).</string>
+  <string name="publish_entry_now">Ẓreg tura</string>
+  <string name="publish_entry">Ẓreg </string>
+  <string name="limited_time_active_notice">Anabri!Anekcum yella %1$d ussan kan.</string>
+  <string name="share_my_entry_at_froody">Anekcum innu ɣer asnas Froody</string>
+  <string name="share_chooser_share_entry">Bḍu anekcum</string>
+  <string name="nav__my_entries">Anekcum innu</string>
+  <string name="error_cannot_publish_entry">Tuccḍa: d-awezɣi aẓreg n unekcum</string>
   <!-- Info -->
   <!-- Location -->
 </resources>
