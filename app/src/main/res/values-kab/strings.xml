@@ -15,7 +15,18 @@
   <!-- More general words -->
   <string name="search_dotdotdot">Anadi...</string>
   <string name="distribution_type">Asedger</string>
+  <string name="certification">Taselkant</string>
+  <string name="contact">Anermis</string>
+  <string name="map">Takarḍa</string>
+  <string name="blog">Ablug</string>
+  <string name="license">Turagt</string>
+  <string name="changelog">Aɣmis n ubeddel</string>
   <!-- Main -->
+  <string name="no_entries_were_published_by_me">Ur yelli kra</string>
+  <string name="really_delete_entry">Stidett tebɣiḍ a-tt-kseḍ anekcum agi?</string>
+  <string name="share_entry_ask">Bḍu anekcum?</string>
+  <string name="share">Bḍu...</string>
+  <string name="donate_bitcoin">Asefku s\nBitcoin</string>
   <!-- Publish -->
   <!-- Info -->
   <!-- Location -->
