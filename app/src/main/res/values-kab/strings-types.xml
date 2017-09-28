@@ -53,4 +53,11 @@
   <string name="entry_type__garlic">Ticcert</string>
   <string name="entry_type__onion">Aẓalim</string>
   <string name="entry_type__pea">Tajilbant</string>
+  <string name="entry_type__pepper">Aṭerci</string>
+  <string name="entry_type__pumpkin">Taxsayt</string>
+  <string name="entry_type__salad">Claḍa</string>
+  <string name="entry_type__seed">Ifsan</string>
+  <string name="entry_type__soy_bean">Ṣuja</string>
+  <string name="entry_type__currant_black">Tizwal</string>
+  <string name="entry_type__blackberry">Tizwal</string>
 </resources>
