@@ -24,6 +24,7 @@
   <string name="entry_type__plum">Aberquq</string>
   <string name="entry_type__grape">Tiẓuṛin</string>
   <string name="entry_type__milk">Ayefki</string>
+  <string name="entry_type__raspberry">Takilsa</string>
   <string name="entry_type__walnut">Agussim</string>
   <string name="entry_type__carrot">Zṛudiya</string>
   <string name="entry_type__cereal">Imendi</string>
@@ -40,7 +41,7 @@
   <string name="entry_type__peach">Lxux</string>
   <string name="entry_type__potato">Baṭaṭa</string>
   <string name="entry_type__sapling">Tamaɣṛust</string>
-  <string name="entry_type__strawberry">Timerẓiwt</string>
+  <string name="entry_type__strawberry">Tabɣa</string>
   <string name="entry_type__tomato">Ṭumaṭic</string>
   <string name="entry_type__wood">Asɣaṛ</string>
   <string name="entry_type__zucchini">Taxsayt</string>
