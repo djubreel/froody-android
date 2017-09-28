@@ -52,4 +52,13 @@
   <string name="error_bad_permissions">Tanemmirt Fked turagt i Froody iw nekcum s ideg innek.\n\n m-ur telli ara turagt,ur tezmireḍ a-tt-ẓreg-eḍ anekcum u ideg innek n tura ur yezmir ara ad yettwasebded.\n\n tzemreḍ a-tt-sideg-eḍ i tikelt nniḍen s usiti ɣef tafeggagt n ifecka yellan iwsawen.</string>
   <string name="show_map_on_current_location">Ṣeggem takarḍa deg ansa n tura?</string>
   <string name="cannot_locate_user">D awezɣi ad yilli usideg.Ttxilek rmed tinfawin n usideg deg iɣewwaṛen n unagraw!</string>
+  <string name="error_couldnt_connect_or_register">Tella-d tuccḍa : Tuqqna s aqeddac d awezɣi ad yilli neɣ d awezɣi asenqed n useqdac .</string>
+  <string name="support_the_project">Kbel asenfar</string>
+  <string name="translate">Asuqel</string>
+  <string name="spread">Bḍu asenfar</string>
+  <string name="report_bugs">Mel\nbugs</string>
+  <string name="about_the_app">Ɣef\n usnas</string>
+  <string name="error_incomplete_input">Tuccḍa : txuṣ tira</string>
+  <string name="pref_desc__language">Beddel tutlayt n usnas.uɣal sekker asnas iw akken azdam ad lḥun</string>
+  <string name="pref_title__language">Tutlayt</string>
 </resources>
