@@ -7,8 +7,8 @@
   <!-- Network -->
   <string name="pref_title__froody_server">Beddel aqeddac</string>
   <string name="pref_title__clear_cache">Sfeḍ tuffirt</string>
-  <string name="pref_desc__clear_cache">Sizdeg tuffirt n unekcum,ideg aneggaru</string>
-  <string name="pref_desc__froody_server">Beddel aqeddac iw ḥeli n inekcumen</string>
+  <string name="pref_desc__clear_cache">Sizdeg tuffirt n unekcum, adig aneggaru</string>
+  <string name="pref_desc__froody_server">Beddel aqeddac akked ad tawiḍ n inekcumen</string>
   <string name="pref_summary__network__http_proxy_enabled">Seqdec Tor am proxy http i tugett n tamsuɣelt.tikarḍiwin nniḍen kradet (amedya. reverse geocoder) ahat ur zemren ara i tuqqniwin seg proxy.yessefk usekker</string>
   <string name="pref_title__network__http_proxy_enabled">Seqdec proxy http (Tor)</string>
   <!-- App -->
